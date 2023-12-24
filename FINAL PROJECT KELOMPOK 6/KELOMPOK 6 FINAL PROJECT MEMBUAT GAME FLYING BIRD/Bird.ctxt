@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Bird
+comment0.text=\r\n\ This\ is\ the\ class\ that\ the\ player\ controls.\ \r\n\ Contains\ code\ for\ the\ bird's\ movement\ and\ animation.\r\n\ \ \r\n\ @author\ Achyudh,\ Shantanu\r\n\ @version\ 14/08/2015\r\n
+comment1.params=
+comment1.target=Bird()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ animate()
+comment4.text=\r\n\ To\ animate\ the\ bird's\ wings.\r\n
+comment5.params=
+comment5.target=void\ flapUp()
+comment5.text=\r\n\ Flap\ up\ either\ on\ mouse\ click\ or\ keyboard\ input.\r\n
+comment6.params=customJumpDist
+comment6.target=void\ flapUp(int)
+numComments=7
