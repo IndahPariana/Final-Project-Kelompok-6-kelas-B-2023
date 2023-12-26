@@ -1,12 +1,5 @@
 import greenfoot.*;  
 
-/**
- * This is the class that the player controls. 
- * Contains code for the bird's movement and animation.
- *  
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
 public class Bird extends Actor
 {
     private WorldClass w;

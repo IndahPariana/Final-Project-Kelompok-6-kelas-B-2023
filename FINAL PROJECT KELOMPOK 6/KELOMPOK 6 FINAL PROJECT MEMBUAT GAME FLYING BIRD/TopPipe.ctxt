@@ -1,6 +1,5 @@
 #BlueJ class context
 comment0.target=TopPipe
-comment0.text=\r\n\ The\ top\ part\ of\ the\ "pipe"\r\n\ \r\n\ @author\ Achyudh,\ Shantanu\r\n\ @version\ 14/08/2015\r\n
 comment1.params=location
 comment1.target=TopPipe(int)
 comment2.params=

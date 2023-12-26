@@ -1,6 +1,5 @@
 #BlueJ class context
 comment0.target=Timer
-comment0.text=\r\n\ A\ timer\ that\ counts\ the\ milliseconds\ since\ its\ last\ set\ point.\r\n\ \r\n\ @author\ Achyudh,\ Shantanu\r\n\ @version\ 14/08/2015\r\n
 comment1.params=
 comment1.target=Timer()
 comment1.text=\r\n\ Start\ the\ timer\r\n

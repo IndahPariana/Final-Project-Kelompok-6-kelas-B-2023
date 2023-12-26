@@ -1,6 +1,5 @@
 #BlueJ class context
 comment0.target=ScoreDisplay
-comment0.text=\r\n\ A\ text\ display\ showing\ an\ integer.\r\n\ \r\n\ @author\ Achyudh,\ Shantanu\r\n\ @version\ 14/08/2015\r\n
 comment1.params=
 comment1.target=ScoreDisplay()
 comment1.text=\r\n\ This\ function\ creates\ a\ display\ with\ the\ value\ set\ to\ zero.\r\n

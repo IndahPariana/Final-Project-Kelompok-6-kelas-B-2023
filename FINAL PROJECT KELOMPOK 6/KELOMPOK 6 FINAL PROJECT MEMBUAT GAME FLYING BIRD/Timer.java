@@ -1,9 +1,4 @@
-/**
- * A timer that counts the milliseconds since its last set point.
- * 
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
+
 public class Timer  
 {
     private long start;

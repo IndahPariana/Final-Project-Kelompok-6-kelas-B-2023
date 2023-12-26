@@ -1,12 +1,6 @@
 import greenfoot.*;  
 
 
-/**
- * A text display showing an integer.
- * 
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
 public class ScoreDisplay extends Actor
 {
     public int integerScore; 

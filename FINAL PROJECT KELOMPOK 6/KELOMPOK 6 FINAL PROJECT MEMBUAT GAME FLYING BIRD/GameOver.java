@@ -1,12 +1,5 @@
 import greenfoot.*;
 
-
-/**
- * This is the Game Over screen displayed when the uses loses the game. 
- * 
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
 public class GameOver extends Actor
 {        
     public GameOver(int score)

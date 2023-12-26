@@ -1,11 +1,5 @@
 import greenfoot.*;  
 
-/**
- * The top part of the "pipe"
- * 
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
 public class TopPipe extends Actor
 {
     private GreenfootImage imgTop;

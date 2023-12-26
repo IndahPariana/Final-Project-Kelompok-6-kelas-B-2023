@@ -1,11 +1,5 @@
 import greenfoot.*;  
 
-/**
- * The bottom part of the "pipe"
- * 
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
 public class BottomPipe extends Actor
 {
     private GreenfootImage imgBottom;

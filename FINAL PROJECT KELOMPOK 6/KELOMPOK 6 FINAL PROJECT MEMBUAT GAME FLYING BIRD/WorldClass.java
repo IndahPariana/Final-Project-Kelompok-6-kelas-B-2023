@@ -1,11 +1,5 @@
 import greenfoot.*; 
 
-/**
- * Write a description of class WorldClass here.
- * 
- * @author Achyudh, Shantanu
- * @version 14/08/2015
- */
 public class WorldClass extends World
 {
     private int lastPipe = 300;
@@ -33,9 +27,6 @@ public class WorldClass extends World
         setBackground(background);
     }
 
-    /**
-     * Scroll the world a little and check if it is time to add a new pipe
-     */
     public void act()
     {
         if(!isLost)
@@ -57,9 +48,7 @@ public class WorldClass extends World
         }
     }
 
-    /**
-     * Create a new pipe when required at given intervals and locations, along with a Boundary object.
-     */
+
     private void newPipe()
     {
         int newPipe = lastPipe + Greenfoot.getRandomNumber(300) - 100;
@@ -92,9 +81,6 @@ public class WorldClass extends World
         score.add(1);
     }
 
-    /**
-     * Stop the game and show the GameOver Screen
-     */
     public void lost()
     {
         removeObjects(getObjects(null));
@@ -102,9 +88,6 @@ public class WorldClass extends World
         addObject(new GameOver(score.integerScore), 250, 300);
     }
 
-    /**
-     * To show a scrolling background at given position and make it fill the screen.
-     */
     private void paint(int position)
     {
         GreenfootImage bg = getBackground();

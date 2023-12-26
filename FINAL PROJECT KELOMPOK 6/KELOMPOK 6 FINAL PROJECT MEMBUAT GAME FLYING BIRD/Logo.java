@@ -1,11 +1,5 @@
 import greenfoot.*;  
 
-/**
- * Logo is the starting screen that appears on execution of the program.
- * 
- * @author Achyudh, Shantanu 
- * @version 14/08/2015
- */
 public class Logo extends Actor
 {
     /**
